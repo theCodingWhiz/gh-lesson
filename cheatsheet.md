@@ -1,6 +1,6 @@
 
 CheatSheet:
-
+ 
 
 List directories                =           ls/
 Change directory                =           cd/
@@ -19,3 +19,4 @@ Repeats command                 =           Echo/
 turns url into HTML             =           Curl/  
 Print the text                  =           Cat/
 Use text to find a word in file =           Grep/
+
